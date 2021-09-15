@@ -27,6 +27,8 @@ Ready Environment:
 	For your convenience, we have packaged up a VM that can be used.  We highly suggets using this to get started, ask the Vedo team for info on where to find it.
 	If you choose to use the VM, there is no need to follow the 'Install Trick' section.
 
+Materials can be found at this link: https://drive.google.com/drive/folders/1uXlJFuuS44-G6bYyS20QIjpgei9P-ypZ?usp=sharing
+
 Install Trick 
 Automatic:
   WINDOWS:
